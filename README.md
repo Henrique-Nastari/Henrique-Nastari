@@ -20,8 +20,8 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain-wordmark.svg" />
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fw7.pngwing.com%2Fpngs%2F358%2F849%2Fpng-transparent-postgresql-database-logo-database-symbol-blue-text-logo.png&imgrefurl=https%3A%2F%2Fwww.pngwing.com%2Fpt%2Ffree-png-dybci&tbnid=3k5rBMaSi-T5PM&vet=12ahUKEwiB5c_m75f9AhVfI7kGHa3RBWUQMygHegUIARDBAQ..i&docid=ckFZrakl6PZrPM&w=920&h=555&q=icone%20postgresql&ved=2ahUKEwiB5c_m75f9AhVfI7kGHa3RBWUQMygHegUIARDBAQ" />
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Fpremium%2Fpng-256-thumb%2Fgolang-5839453-5277114.png&imgrefurl=https%3A%2F%2Ficonscout.com%2Ficons%2Fgolang&tbnid=DmX-NJsVsR_bWM&vet=12ahUKEwiqkJKk8Jf9AhXTOLkGHb2qCvUQMygAegQIARAm..i&docid=VMHR5nwglG5saM&w=256&h=256&q=icone%20golang&hl=pt-BR&ved=2ahUKEwiqkJKk8Jf9AhXTOLkGHb2qCvUQMygAegQIARAm" />
 
   ##
   
