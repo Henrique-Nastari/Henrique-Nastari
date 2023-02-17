@@ -2,7 +2,7 @@
 
 - 📖 Estudante de Tecnologia em Análise e Desenvolvimento de Sistemas na Universidade Federal do Rio Grande do Norte (UFRN).
 - 💻 Aluno Bolsista de Pesquisa na empresa IIN-ELS - Instituto Internacional de Neurociências Edmond e Lily Safra (ISD -Instituto Santos Dumont).
-- 🌱 Trabalhei nem projetos de pesquisa de Desenvolvimento de Software para Implementação em Agricultura Familiar - EAJ-UFRN. 
+- 🌱 Trabalhei em projetos de pesquisa de Desenvolvimento de Software para Implementação em Agricultura Familiar - EAJ-UFRN. 
 
 <div align="center">
   
