@@ -1,8 +1,7 @@
 ### Olá, eu sou Henrique Nastari!!! 👋
 
 - 📖 Estudante de Tecnologia em Análise e Desenvolvimento de Sistemas na Universidade Federal do Rio Grande do Norte (UFRN).
-- 💻 Aluno Bolsista de Pesquisa na empresa IIN-ELS - Instituto Internacional de Neurociências Edmond e Lily Safra (ISD -Instituto Santos Dumont).
-- 🌱 Trabalhei em projetos de pesquisa de Desenvolvimento de Software para Implementação em Agricultura Familiar - EAJ-UFRN. 
+- 💻 Aluno Bolsista de Pesquisa na empresa IIN-ELS - Instituto Internacional de Neurociências Edmond e Lily Safra (ISD -Instituto Santos Dumont). 
 
 <div align="center">
   
@@ -14,7 +13,6 @@
   
   <div align="center"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -25,7 +23,6 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
 
   
   <div align="center"> 
