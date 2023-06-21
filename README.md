@@ -1,7 +1,14 @@
-### Olá, eu sou Henrique Nastari!!! 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=250&section=header&text=Perfil&fontSize=90" />
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Henrique+Nastari+👋;I'm+28+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+(PT-BR)
 - 📖 Estudante de Tecnologia em Análise e Desenvolvimento de Sistemas na Universidade Federal do Rio Grande do Norte (UFRN).
-- 💻 Aluno Bolsista de Pesquisa na empresa IIN-ELS - Instituto Internacional de Neurociências Edmond e Lily Safra (ISD -Instituto Santos Dumont). 
+- 💻 Aluno Bolsista de Pesquisa na empresa IIN-ELS - Instituto Internacional de Neurociências Edmond e Lily Safra.
+
+(EN)
+- 📖 Studying Analysis and Systems Development in Federal University of Rio Grande do Norte (UFRN).
+- 💻 Scholarship holder in IIN-ELS - Edmond and Lily Safra International Institute of Neuroscience.
 
 <div align="center">
   
@@ -36,6 +43,10 @@
  
 </div>
 
-<div>
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Henrique-Nastari&theme=Solar&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Henrique-Nastari&bg_color=fcfcfc&color=3618cd&line=cac0d3&point=2c1bb1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=200&section=header&text=&fontSize=90" />
