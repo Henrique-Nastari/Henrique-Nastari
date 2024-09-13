@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&backgroundcolor=cobalt&height=200&section=header&text=About+Me&fontSize=70" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=40&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Henrique+Nastari+👋;I'm+29+years+old;FullStack+dev;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=40&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Henrique+Nastari+👋;I'm+29+years+old;FullStack+dev;And+Cybersecurity+Analyst;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 (PT-BR)
 - 📖 Estudante de Tecnologia em Análise e Desenvolvimento de Sistemas na Universidade Federal do Rio Grande do Norte (UFRN).
