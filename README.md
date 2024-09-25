@@ -26,10 +26,10 @@
     <h2> FrontEnd </h2>
     <img src="https://skillicons.dev/icons?i=js,html,css,react,figma" />
     <h2> BackEnd </h2>
-    <img src="https://skillicons.dev/icons?i=go,py,django,java,spring,dart,flutter" />
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+    <img src="https://skillicons.dev/icons?i=go,py,django,dart,flutter" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" />
     <h2> Ferramentas </h2>
-    <img src="https://skillicons.dev/icons?i=docker,kali,octave,idea,vscode" />
+    <img src="https://skillicons.dev/icons?i=docker,gitlab,kali,grafana" />
   </a>
 </div>
     
