@@ -10,7 +10,7 @@
 (EN)
 - 📖 Studying Analysis and Systems Development in Federal University of Rio Grande do Norte (UFRN).
 - 💻 Emphasis on systems development and cybersecurity.
-- 🛡️ cybersecurity analyst at RNP: PoP-RN.
+- 🛡️ Cybersecurity analyst at RNP: PoP-RN.
 
 <div align="center">
   
