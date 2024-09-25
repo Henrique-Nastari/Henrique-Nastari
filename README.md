@@ -5,12 +5,12 @@
 (PT-BR)
 - 📖 Estudante de Tecnologia em Análise e Desenvolvimento de Sistemas na Universidade Federal do Rio Grande do Norte (UFRN).
 - 💻 Ênfase em desenvolvimento de sistemas e cibersegurança.
-- 🛡️ Analista de cibersegurança na RNP - PoP-RN.
+- 🛡️ Analista de cibersegurança na RNP: PoP-RN.
 
 (EN)
 - 📖 Studying Analysis and Systems Development in Federal University of Rio Grande do Norte (UFRN).
 - 💻 Emphasis on systems development and cybersecurity.
-- 🛡️ cybersecurity analyst at RNP - PoP-RN.
+- 🛡️ cybersecurity analyst at RNP: PoP-RN.
 
 <div align="center">
   
