@@ -29,7 +29,7 @@
     <img src="https://skillicons.dev/icons?i=go,py,django,dart,flutter" />
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" />
     <h2> Ferramentas </h2>
-    <img src="https://skillicons.dev/icons?i=docker,gitlab,kali,grafana" />
+    <img src="https://skillicons.dev/icons?i=docker,androidstudio,kali,grafana" />
   </a>
 </div>
     
@@ -40,6 +40,7 @@
   <a href = "mailto:nastari.henrique@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/henrique-nastari-corr%C3%AAa-a7932b325/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/henriquenastari/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://gitlab.com/nastari.henrique"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a>
  
 </div>
 
