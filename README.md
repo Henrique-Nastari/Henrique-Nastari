@@ -4,7 +4,7 @@
 
 (PT-BR)
 - 📖 Estudante de Tecnologia em Análise e Desenvolvimento de Sistemas na Universidade Federal do Rio Grande do Norte (UFRN).
-- 💻 Ênfase em desenvolvimento de sistemas e cibersegurança.
+- 💻 Ênfase em Cibersegurança e Machine Learning.
 - 🛡️ Analista de cibersegurança na RNP: PoP-RN.
 
 (EN)
