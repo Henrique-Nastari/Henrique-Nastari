@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Henrique Nastari
 
-**`Analista de Cibersegurança`  `Desenvolvedor FullStack`**
+**`Analista de Cibersegurança`  `Analista de Dados`**
 
 ### ⚡ Bio
 
