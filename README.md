@@ -4,7 +4,7 @@
 
 ### ⚡ Bio
 
-I am a **Cybersecurity Analyst** and **FullStack Developer**, bridging the gap between building software and securing digital assets. Currently studying Systems Analysis at **UFRN**.
+I am a **Cybersecurity Analyst** and **Data Analyst**, bridging the gap between building software and securing digital assets. Currently studying Systems Analysis at **UFRN**.
 
 My focus lies in Secure Development (*Secure by Design*), defense automation, and applying Machine Learning to both offensive and defensive security operations.
 
