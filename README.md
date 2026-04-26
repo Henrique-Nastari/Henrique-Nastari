@@ -6,7 +6,7 @@
 
 I am a **Cybersecurity Analyst** and **Data Analyst**, bridging the gap between building software and securing digital assets. Currently studying Systems Analysis at **UFRN**.
 
-My focus lies in Secure Development (*Secure by Design*), defense automation, and applying Machine Learning to both offensive and defensive security operations.
+My focus is on secure-by-design development, defense automation, and the application of machine learning in both offensive and defensive security operations.
 
 <p align="left">
    <a href="mailto:nastari.henrique@gmail.com">
